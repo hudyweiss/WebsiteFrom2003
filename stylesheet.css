@@ -1,0 +1,55 @@
+body {
+  background-color: #ffffff;
+}
+
+p {
+  color:#54fc00;
+  font-family: "Arial", sans-serif;
+  text-align: justify;
+  font-weight: lighter;
+}
+h1 {
+  color: black;
+  font-family: "Brush Script MT", "Brush Script Std", cursive;
+  font-size: 500%;
+  text-align: center;
+  text-shadow: 3px 2px gray;
+}
+h2 {
+  color: #13f4e5;
+  font-family: "Arial", sans-serif;
+}
+h3 {
+  color: #f90000;
+  font-family: "Arial", sans-serif;
+}
+h4 {
+  color: #66018e;
+  font-family: "Arial", sans-serif;
+}
+#family {
+  color: #f918e7;
+  font-family: "Arial", sans-serif;
+  font-weight: lighter;
+}
+#celeb {
+  color: #ff9d0a;
+  font-family: "Arial", sans-serif;
+  font-weight: lighter;
+}
+#fact {
+  color: #115bf9;
+  font-family: "Arial", sans-serif;
+  font-weight: lighter;
+}
+
+img {
+
+  float: right;
+  margin: 50px;
+
+}
+.btn {
+  background: #f40226;
+
+}
